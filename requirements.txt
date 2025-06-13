@@ -1,3 +1,15 @@
 pdfplumber
 PyYAML
 streamlit
+langchain
+langchain-community
+langchain-google-genai
+faiss-cpu  # or faiss-gpu if you're using a GPU
+transformers
+torch
+sentence-transformers
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+PyPDF2  # For PDF parsing (used by PyPDFLoader internally)
